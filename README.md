@@ -56,9 +56,6 @@ puts 'Hello, World'
 | left       | right       | center       |
 | aligned    | aligned     | aligned      |
 
-```plantuml
-Bob->Alice : Hello!
-```
 ```mermaid
 graph TD;
     A-->B;
